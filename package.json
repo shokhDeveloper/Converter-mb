@@ -4,10 +4,10 @@
   "main": "src/app.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/shokhDeveloper/Converter-mb"
   },
   "bugs": {
-    "url": "",
+    "url": "https://github.com/shokhDeveloper/Converter-mb/issues",
     "email": "shohijahonmusinkulov@gmail.com"
   },
   "scripts": {
